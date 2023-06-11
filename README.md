@@ -7,7 +7,7 @@ The goal of this thesis is to assess the extent to which transformer-based langu
 
 
 Three main studies were conducted:
-* Modelling acceptability and log-probability (```model.R```)
+* Modeling acceptability and log-probability (```model.R```)
 * comparing acceptability and log-probability on subject island studies (```code_for_compute_lp_surprisal.ipynb```)
 * comparing reading time and surprisal on dequi/dont relative clauses (```code_for_compute_lp_surprisal.ipynb```)
 
